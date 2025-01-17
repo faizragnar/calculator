@@ -21,6 +21,7 @@ class Demo {
 
     switch (operator) {
 
+
       
      
       case '-':
@@ -30,7 +31,11 @@ class Demo {
 
  
 
+
+    
+   
       
+
     }
 
     input.close();
