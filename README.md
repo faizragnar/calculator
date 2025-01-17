@@ -1,3 +1,3 @@
 # calculator
-welcome to calculaotr
+welcome to calculator
 
